@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "users.js",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "yargs": "^12.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
