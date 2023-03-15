@@ -23,7 +23,7 @@ const server = http.createServer((req, res) => {
       });
   } else {
     res.writeHead(404, { 'Content-Type': 'text/plain' });
-    res.end('404 Not Found');
+    res.end('404 Not Found - only /cats exist');
   }
 });
 
